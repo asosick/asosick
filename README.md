@@ -6,6 +6,5 @@ Most of my recent contributions are within my private repositories.
 - ✉️ Wanna get in touch? Send me an email! [august@sosick.ca](mailto:august@sosick.ca)
 
 ### Links
-[Personal Site](https://www.sosick.ca)
-
-[LinkedIn](https://www.linkedin.com/in/asosick/)
+- [Personal Site](https://www.sosick.ca)
+- [LinkedIn](https://www.linkedin.com/in/asosick/)
