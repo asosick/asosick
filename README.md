@@ -9,4 +9,3 @@ Most of my recent contributions are within private repositories.
 ### Links
 - [Personal Site](https://www.sosick.ca)
 - [LinkedIn](https://www.linkedin.com/in/asosick/)
-- [Resume](https://sosickbucket.s3.ca-central-1.amazonaws.com/August_Sosick_Resume.pdf)
